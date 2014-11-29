@@ -1,9 +1,11 @@
 Species to cover:
-potato, tomato, capsicum: Solanaceae
-sage, rosemary, thyme, mint: Lamiaceae
-broccoli, cauliflower, mustard: Brassicaceae
-cucmber, pumpkin, melon: Cucurbitaceae
-carrot, celery, dill, fennel: Apiaceae
-onion, leek, garlic: Amaryllidaceae (was Liliaceae)
 
- 
+onion, leek, garlic, chive: Amaryllidaceae (was Liliaceae)
+sage, rosemary, thyme, mint, basil: Lamiaceae
+potato, tomato, capsicum: Solanaceae
+broccoli/cabbage/cauliflower/brussels, mustard, turnip, radish: Brassicaceae
+wheat, rice, maize, oats, sugarcane, sorghum, rye: Poaceae
+peanut, soy, sweetpea, alfalfa, bean, pea, clover: Fabaceae
+strawberry, cherry, prune, apricot, plum, apple, pear, blackberry: Rosaceae
+carrot, celery, dill, fennel, caraway, parsley, parsnip: Apiaceae
+squash, cucumber, pumpkin, melon: Cucurbitaceae
