@@ -1,4 +1,4 @@
-Species to cover:
+# Species
 
 onion, leek, garlic, chive: Amaryllidaceae (was Liliaceae)
 sage, rosemary, thyme, mint, basil: Lamiaceae
